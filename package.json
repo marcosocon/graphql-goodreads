@@ -1,0 +1,19 @@
+{
+  "name": "graphql-goodreads",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcosocon/graphql-goodreads.git"
+  },
+  "author": "Marcos Ocon (oconmarcos97@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcosocon/graphql-goodreads/issues"
+  },
+  "homepage": "https://github.com/marcosocon/graphql-goodreads#readme"
+}
